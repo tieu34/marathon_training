@@ -18,6 +18,8 @@
 
 These are estimates based on a 3:50 marathon goal (using standard race-pace equivalency charts) and assume reasonably even pacing. **Recalibrate after a tune-up race** — aim for a 10K or half marathon around **Aug 24–31 (week 9-10)** — plug your actual result into a pace calculator to refine these numbers before your peak weeks (Sept 21 onward).
 
+![Target Pace Zones](charts/pace_zones.png)
+
 ## How to Use This Plan
 
 - **Running days:** Tuesday (speed/tempo), Thursday (easy/moderate), Saturday (long run), Sunday (recovery run or rest)
@@ -54,6 +56,8 @@ These are estimates based on a 3:50 marathon goal (using standard race-pace equi
 - "TP" (Tempo Pace) = 8:00–8:15/mi (see pace table above), roughly comfortably hard — "could hold a short conversation but wouldn't want to."
 - "MP" (Marathon Pace) = 8:46/mi, your 3:50 target pace, practiced in the back half of key long runs from week 11 onward.
 - Race week: shakeout run Friday is optional, very short and easy, just to keep legs loose.
+
+![Weekly Mileage and Long Run Progression](charts/mileage_progression.png)
 
 ---
 
